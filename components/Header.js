@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../Assets/logo.png";
+import Logo from "../assets/logo.png";
 import Image from "next/image";
 import { MenuIcon } from "@heroicons/react/outline";
 import { useState } from "react";

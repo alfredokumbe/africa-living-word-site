@@ -1,7 +1,7 @@
 import React from "react";
-import Heart from "../Assets/heart.png";
-import Plant from "../Assets/plant.png";
-import Teach from "../Assets/teach.png";
+import Heart from "../assets/heart.png";
+import Plant from "../assets/plant.png";
+import Teach from "../assets/teach.png";
 import Image from "next/image";
 import DonateBtn from "./DonateBtn";
 

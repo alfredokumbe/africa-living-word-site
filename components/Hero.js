@@ -1,5 +1,5 @@
 import Image from "next/image";
-import HeroImg from "../Assets/hero-image.png";
+import HeroImg from "../assets/hero-image.png";
 import DonateBtn from "./DonateBtn";
 
 function Hero() {

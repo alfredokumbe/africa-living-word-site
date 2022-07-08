@@ -1,13 +1,13 @@
 import React from "react";
-import Dennis from "../Assets/Dennis.jpeg";
-import George from "../Assets/George.jpeg";
-import Judith from "../Assets/Judith.jpeg";
-import Min from "../Assets/Min.jpeg";
-import Monica from "../Assets/Monica.jpeg";
-import Nashon from "../Assets/Nashon.jpeg";
-import Tolli from "../Assets/Tolli.jpeg";
-import Lucy from "../Assets/Lucy.jpeg";
-import Ruth from "../Assets/Ruth.jpeg";
+import Dennis from "../assets/Dennis.jpeg";
+import George from "../assets/George.jpeg";
+import Judith from "../assets/Judith.jpeg";
+import Min from "../assets/Min.jpeg";
+import Monica from "../assets/Monica.jpeg";
+import Nashon from "../assets/Nashon.jpeg";
+import Tolli from "../assets/Tolli.jpeg";
+import Lucy from "../assets/Lucy.jpeg";
+import Ruth from "../assets/Ruth.jpeg";
 import Image from "next/image";
 
 const Team = () => {
